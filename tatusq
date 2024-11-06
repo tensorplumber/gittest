@@ -1,0 +1,42 @@
+[33mcommit e7099fc06bf61ff31858dc19650cfdb60dea4300[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 04:35:09 2024 +0000
+
+    fosnow
+
+[33mcommit a88b01e0435f639809241fdc6b7345d2bd86495e[m
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 01:55:44 2024 +0000
+
+    dril
+
+[33mcommit 2ae899975f608f493d9e8bd6225c9f0b3a7f181b[m
+Merge: cbd86f0 82174e6
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 01:52:36 2024 +0000
+
+    configlet
+
+[33mcommit cbd86f02e3b4f2cc158c93112d4ea78720408619[m
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 01:47:02 2024 +0000
+
+    threway2
+
+[33mcommit 82174e66d23057004756d3a61c91130f86bc2544[m[33m ([m[1;32mlab5[m[33m)[m
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 01:42:21 2024 +0000
+
+    threway
+
+[33mcommit 4e0281bbcc1159ecc468e134c1f047d71d6ae439[m
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 01:33:18 2024 +0000
+
+    dogadd
+
+[33mcommit a0f1cfce1f045abde99b5f58f85b7b9cee30156a[m
+Author: gimsoomin <ghimsoomin@gmail.com>
+Date:   Wed Nov 6 00:52:14 2024 +0000
+
+    feat: animal.txt 추가
